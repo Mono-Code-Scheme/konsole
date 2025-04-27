@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/Mono-Code-Scheme/assets/refs/heads/main/logos/logo-round.svg" width="100"> 
+
   # Mono Code for Konsole
   
   <img src="https://raw.githubusercontent.com/Mono-Code-Scheme/assets/refs/heads/main/ports/banner.svg" width="600"> 
