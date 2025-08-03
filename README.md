@@ -16,9 +16,6 @@ git clone https://github.com/Mono-Code-Scheme/konsole
 
 # Copy Themes
 cp konsole/themes/* ~/.local/share/konsole
-
-# Copy themes to konsole:
-cd ~/.local/share/konsole/
 ```
 
 # Usage
